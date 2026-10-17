@@ -1,0 +1,11 @@
+Collecting attrs
+  Downloading attrs-25.3.0-py3-none-any.whl.metadata (10 kB)
+Collecting psutil
+  Downloading psutil-7.0.0-cp36-abi3-macosx_10_9_x86_64.whl.metadata (22 kB)
+Collecting platformdirs
+  Downloading platformdirs-4.3.8-py3-none-any.whl.metadata (12 kB)
+Downloading attrs-25.3.0-py3-none-any.whl (63 kB)
+Downloading psutil-7.0.0-cp36-abi3-macosx_10_9_x86_64.whl (238 kB)
+Downloading platformdirs-4.3.8-py3-none-any.whl (18 kB)
+Installing collected packages: psutil, platformdirs, attrs
+Successfully installed attrs-25.3.0 platformdirs-4.3.8 psutil-7.0.0
